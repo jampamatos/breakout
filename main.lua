@@ -1,4 +1,4 @@
--- Update 5 The Hearts Update
+-- Update 6 The Pretty Colors Update
 
 require 'src/Dependencies'
 
